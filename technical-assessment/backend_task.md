@@ -7,7 +7,7 @@ Using the technoligies below:
 * Authentication - JWT
 * Database - MySQL
 
-# Complete a project to manage companies and their employees. A Mini-CRM.
+# Complete a project to manage companies and their employees.
 
 Required Features
 * Basic Laravel Auth: ability to log in as administrator
