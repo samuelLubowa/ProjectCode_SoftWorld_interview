@@ -23,8 +23,8 @@ Using the technoligies below:
 
 **Step 4:** On <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#list-payments">Latest Payments</a> when a payment is tapped, navigate to <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#view-payment">View Single Payment</a>:
 
-- The payment data <mark>SHOULD NOT</mark> be passed as argument for the <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#view-payment">View Single Payment</a> page
-- <mark>DO NOT USE</mark> local storage to persist bill payment details
+- The payment data **SHOULD NOT** be passed as argument for the <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#view-payment">View Single Payment</a> page
+- **DO NOT USE** local storage to persist bill payment details
 
 **Step 5:** Use <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#update-payment">Update Payment</a> page, post payment changes bill to the server:
 
