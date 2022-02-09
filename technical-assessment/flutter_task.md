@@ -14,7 +14,7 @@ Using the technoligies below:
 - [View Single Payment](#view-payment)
 - [Update Payment](#update-payment)
 
-**Step 2:** Populate <a id="list-payments">Latest Payments</a> page with data from API:
+**Step 2:** Populate <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#list-payments">Latest Payments</a> page with data from API:
 
 **Step 3:** On <a id="create-payments">Create New Payment</a> page, post a new bill payment to the server:
 
