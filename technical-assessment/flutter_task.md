@@ -16,19 +16,19 @@ Using the technoligies below:
 
 **Step 2:** Populate <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#list-payments">Latest Payments</a> page with data from API:
 
-**Step 3:** On <a id="create-payments">Create New Payment</a> page, post a new bill payment to the server:
+**Step 3:** On <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#create-payments">Create New Payment</a> page, post a new bill payment to the server:
 
 - The form should not post empty fields with clear warning messages
-- The newly created bill payment should appear as the first item on <a id="list-payments">Latest Payments</a> page
+- The newly created bill payment should appear as the first item on <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#list-payments">Latest Payments</a> page
 
-**Step 4:** On <a id="list-payments">Latest Payments</a> when a payment is tapped, navigate to <a id="view-payment">View Single Payment</a>:
+**Step 4:** On <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#list-payments">Latest Payments</a> when a payment is tapped, navigate to <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#view-payment">View Single Payment</a>:
 
-- The payment data <mark>SHOULD NOT</mark> be passed as argument for the <a id="view-payment">View Single Payment</a> page
+- The payment data <mark>SHOULD NOT</mark> be passed as argument for the <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#view-payment">View Single Payment</a> page
 - <mark>DO NOT USE</mark> local storage to persist bill payment details
 
-**Step 5:** Use <a id="update-payment">Update Payment</a> page, post payment changes bill to the server:
+**Step 5:** Use <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#update-payment">Update Payment</a> page, post payment changes bill to the server:
 
-- The new payment bill changes should reflect on all pages without making another API call i.e on both <a id="list-payments">Latest Payments</a> page and <a id="view-payment">View Single Payment</a> page
+- The new payment bill changes should reflect on all pages without making another API call i.e on both <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#list-payments">Latest Payments</a> page and <a href="https://github.com/ismailasega/ProjectCode_SoftWorld_interview/blob/main/technical-assessment/flutter_task.md#view-payment">View Single Payment</a> page
 
 Please Note:
 
