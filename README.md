@@ -3,7 +3,7 @@
 # ProjectCode Interview
 Technical Assessment
 
-Thank you for applying to Project Code. We're currently interviewing and hiring for the rolse listed below:
+Thank you for applying to Project Code. We're currently interviewing and hiring for the rolse listed below, Please attempt your area of expertise amongst any of the three sections, Frontend (web), Backend or Flutter (Mobile):
 
 **Software Engineering**
 - [Frontend Developer](/technical-assessment/frontend_task.md)
