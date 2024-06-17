@@ -1,6 +1,7 @@
 <img src="https://github.com/ismailasega/projectCode-interview/blob/main/img/pcLogo.png" alt="PC_Logo" width="564" height="140">
 
 # Frontend Developer Task
+# To be done in 3 days
 
 Using the technoligies below:
 
